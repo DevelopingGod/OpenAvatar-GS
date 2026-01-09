@@ -86,7 +86,6 @@ curl -X POST "http://localhost:8000/generate" \
 # 📜 License
 This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
 
-🙏 Acknowledgements
-gsplat for the rasterization backend.
-
-HuBERT for audio feature extraction.
+# 🙏 Acknowledgements
+- gsplat for the rasterization backend.
+- HuBERT for audio feature extraction.
