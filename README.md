@@ -73,6 +73,7 @@ curl -X POST "http://localhost:8000/generate" \
 ```
 
 # 📂 Project Structure
+```
 ├── checkpoints/       # Pre-trained models (Download via script)
 ├── src/
 │   ├── model.py       # Core AvatarEngine and MotionPolicy
@@ -80,6 +81,7 @@ curl -X POST "http://localhost:8000/generate" \
 │   └── server.py      # FastAPI Interface
 ├── Dockerfile         # Deployment container
 └── requirements.txt   # Python deps
+```
 
 # 📜 License
 This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
