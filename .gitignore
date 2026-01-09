@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.DS_Store
+# Ignore heavy model files (User should download these separately)
+checkpoints/*.ply
+checkpoints/*.onnx

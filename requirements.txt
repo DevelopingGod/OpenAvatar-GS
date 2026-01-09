@@ -1,0 +1,9 @@
+torch>=2.0.0
+numpy
+fastapi
+uvicorn
+python-multipart
+onnxruntime-gpu
+pillow
+gsplat>=0.1.5  # The core rasterization library
+scipy
